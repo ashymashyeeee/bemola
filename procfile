@@ -1,1 +1,1 @@
-Worker: php Userinfo.PHP
+Worker: php index.php
